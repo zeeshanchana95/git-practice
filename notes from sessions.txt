@@ -1,0 +1,46 @@
+==> Version Control:
+git log (to show all commits)
+
+:wq (or crtl+z to exit from git log)
+
+git checkout commithash ( to go bash to commit or version back)
+
+git checkout master ( to move HEAD to lastest or last commit)
+
+
+git branch dev (create branch)
+
+git checkout dev (switch branch)
+
+git checkout -b zeeshan/second-feature (create and checkout branch)
+
+
+touch myfile.txt (create myfile.txt)
+
+echo mycode >> myfile.txt (add text inside myfile.txt)
+
+git status (to check status of git)
+
+git add filename.txt (add specific file)
+
+git add . (to add all files)
+
+git commit -m "add myfile" (commit stagged changes)
+
+git checkout dev (go back to dev branch)
+
+
+ git . merge zeeshan/second-feature (merge dev branch with zeeshan/second-feature)
+
+
+git checkout master (go back to master branch)
+
+git log (to show commits from other commits with main master)
+
+git merge dev (merge dev branch with master branch)
+
+git log (show all commits from all branches)
+
+git branch (to show all branches, show current branch in *)
+
+

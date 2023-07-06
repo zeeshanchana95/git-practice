@@ -1,0 +1,35 @@
+GSoG (Google Summar of Goal) = open  source platform where companies come and show issues and then people contribute there
+
+Hackathon = given problem statements, we come up with innovative ideas to solve that problem and build on app. App can be on any platorm like desktop, android, web, deep learning, machine learning etc means on various fields (to which domain we want to build that project, it depends on ours)
+
+Git = it is a version control system that allows to track the history of your project
+
+store different versions of project 
+
+it tells us which person has made which change, at what time and at which place in the code
+
+tract (maintain history) everything to ke integrity and security of code
+
+we can also rollback at any time in any particular place or previous version of project or system
+
+github = platform that allows to host your git repositories for version control and collaboration
+other paltforms:gitlab, bigbucket 
+
+git init
+git commit
+git status
+git add names.txt
+git add .
+git status
+git commit -m"I have made changes"
+
+
+git remote add origin https://github.com/zeeshanchana95/gdsc_worksop.git
+
+git push
+
+git pull
+
+git branch
+git checkout feature
+git branch
